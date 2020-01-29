@@ -1,0 +1,8 @@
+p {
+	color: red;
+	background: black;
+	font-style: italic;
+	font-size: small;
+	text-align: center-left;
+	text-shadow: 2px 2px #FF0000;
+}
